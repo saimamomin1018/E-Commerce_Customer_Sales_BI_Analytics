@@ -403,20 +403,22 @@ E-Commerce_Customer_Sales_BI/
 
 ## 📸 Dashboard Preview
 
+The Power BI dashboard provides an interactive view of e-commerce sales, customer performance, products, categories, regions, orders and returns.
+
 ### Sales Performance Dashboard
 
 Add the Page 1 dashboard screenshot here:
 
 ```markdown
-[E-Commerce Sales Performance](4.Screenshots/Dashboard_Page_1_Sales_Performance.png)
-```
+![Dashboard Page 1](3.Screenshots/Dashboard_Page_1.png)
+
 
 ### Customer & Operational Intelligence
 
 Add the Page 2 dashboard screenshot here:
 
 ```markdown
-[Customer and Operational Intelligence](4.Screenshots/Dashboard_Page_2_Customer_Operations.png)
+![Dashboard Page 2](3.Screenshots/Dashboard_Page_2.png)
 ```
 
 ---
