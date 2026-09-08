@@ -58,7 +58,6 @@ This project addresses these questions through **SQL analysis and an interactive
 | **SQL** | Data analysis and business queries |
 | **Power BI** | Interactive dashboard and visualization |
 | **DAX** | KPI and business calculations |
-| **CSV** | Data storage and data transfer |
 | **GitHub** | Project documentation and portfolio |
 
 ---
@@ -341,8 +340,6 @@ Use high-performing products for cross-selling, upselling, and targeted promotio
 ```text
 Raw E-Commerce Data
         ↓
-CSV Data
-        ↓
 MySQL Database
         ↓
 Database & Table Creation
@@ -390,25 +387,15 @@ E-Commerce_Customer_Sales_BI/
 │   ├── 04_Validation/
 │   └── 05_Analysis/
 │
-├── 2.Data/
-│   ├── Categories.csv
-│   ├── Customers.csv
-│   ├── Employees.csv
-│   ├── Order_Details.csv
-│   ├── Orders.csv
-│   ├── Payments.csv
-│   ├── Products.csv
-│   └── Returns.csv
-│
-├── 3.PowerBI/
+├── 2.PowerBI/
 │   └── ECommerce_Customer_Sales_BI.pbix
 │
-├── 4.Screenshots/
+├── 3.Screenshots/
 │   ├── ER_Diagram.png
 │   ├── Dashboard_Page_1.png
 │   └── Dashboard_Page_2.png
 │
-└── 5.Documentation/
+└── 4.Documentation/
     └── Project_Report.pdf
 ```
 
@@ -441,6 +428,7 @@ This project demonstrates practical skills in:
 - SQL
 - MySQL
 - Relational Database Design
+- Data Insertion
 - Data Validation
 - Data Cleaning
 - Data Analysis
