@@ -392,8 +392,8 @@ E-Commerce_Customer_Sales_BI/
 │
 ├── 3.Screenshots/
 │   ├── ER_Diagram.png
-│   ├── Dashboard_Page_1.png
-│   └── Dashboard_Page_2.png
+│   ├── Dashboard_Page_1_Sales_Performance.png
+│   └── Dashboard_Page_2_customer_Operations.png
 │
 └── 4.Documentation/
     └── Project_Report.pdf
@@ -407,15 +407,15 @@ The Power BI dashboard provides an interactive view of e-commerce sales, custome
 
 ### Sales Performance Dashboard
 
-```markdown
-3.Screenshots/Dashboard_Page_1_Sales_Performance.png
-```
+<p align="center">
+  <img src="3.Screenshots/Dashboard_Page_1_Sales_Performance.png" width="100%">
+</p>
 
 ### Customer & Operational Intelligence
 
-```markdown
-3.Screenshots/Dashboard_Page_2_Customer_Analysis.png
-```
+<p align="center">
+  <img src="3.Screenshots/Dashboard_Page_2_customer_Operations.png" width="100%">
+</p>
 
 ---
 
