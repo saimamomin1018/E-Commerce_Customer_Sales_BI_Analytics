@@ -408,13 +408,13 @@ The Power BI dashboard provides an interactive view of e-commerce sales, custome
 ### Sales Performance Dashboard
 
 ```markdown
-[Dashboard Page 1](3.Screenshots/Dashboard_Page_1_Sales_Performance.png)
-
+(3.Screenshots/Dashboard_Page_1_Sales_Performance.png)
+```
 
 ### Customer & Operational Intelligence
 
 ```markdown
-[Dashboard Page 2](3.Screenshots/Dashboard_Page_2_Customer_Analysis.png)
+(3.Screenshots/Dashboard_Page_2_Customer_Analysis.png)
 ```
 
 ---
