@@ -80,13 +80,6 @@ Contains product-level information and category relationships.
 
 ### 5. Orders
 Contains order-level information including:
-- Customer
-- Employee
-- Order date
-- Order status
-- Shipping city
-- Shipping state
-- Shipping region
 
 ### 6. Order_Details
 Contains detailed information about products included in each order.
