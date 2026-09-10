@@ -444,7 +444,7 @@ This project demonstrates practical skills in:
 
 ## 🎓 Project Type
 
-**Academic Project / Data Analytics Portfolio Project**
+** Data Analytics Portfolio Project**
 
 ### Domain
 **E-Commerce & Business Intelligence**
